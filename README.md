@@ -1,4 +1,5 @@
-![Basquiat-boy-and-dog](https://user-images.githubusercontent.com/62518244/150494760-8c703925-c73f-470f-88bb-e14a1261034d.jpg)
+![profilebg](https://portfolio-seven-jet-14.vercel.app/)
+
 - 👋 Hi, I’m Amanda Khumalo (@A-F-K-hub)
 - 👀 I’m interested in web3 dapp development.
 - 🌱 I’m currently learning web3 dapp developement, fullstack blockchain development.
